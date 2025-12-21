@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kubernetes<br>👯 I’m looking to collaborate on Devops role<br>🌱 I’m currently learning Kubernetes<br>I have more than 4 years experience in Devops engineer<br>My expertise <br>AWS<br>Kubernetes <br>Docker<br>Terraform<br>Ansible <br>Jenkins<br>Prometheus<br>Grafana<br>Python<br>linux 
+I’m a DevOps Engineer with 4+ years of hands-on experience in building, automating, and managing scalable cloud infrastructure. I love turning complex problems into simple, reliable systems using automation and DevOps best practices.
 
 
 ## 🌐 Socials:
